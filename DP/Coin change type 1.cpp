@@ -47,7 +47,7 @@ int main()
 			}
 		}
 	}
-	cout<<"\nTotal number of ways : "<<v[n][w];
+	cout<<"\nTotal number of ways to give the change : "<<v[n][w];
 
 	return 0;
 }
